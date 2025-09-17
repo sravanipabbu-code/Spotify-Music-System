@@ -1,7 +1,7 @@
 
 -- =============================================================
 -- Project: Spotify-like Music System (MySQL 8+)
--- Author: ChatGPT
+-- Author: Sravani Pabbu
 -- Description: Full schema, constraints, triggers, views,
 --              stored procedures, and analytics queries.
 -- =============================================================
